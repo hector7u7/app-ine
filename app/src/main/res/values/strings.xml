@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App_para_proyecto</string>
+    <string name="nombre">Guia Electoral</string>
+    <string name="descripcion_logo">logo de la app</string>
+    <string name="login">Iniciar Sesion</string>
+    <string name="login_titulo">Bienvenida/o</string>
+    <string name="password">Contraseña</string>
+    <string name="username">Usuario</string>
+    <string name="forgot_password"> <u>Olvido Su Contraseña?</u> </string>
+    <string name="sign_up"> <u>Nuevo en la aplicación?</u> </string>
+    <string name="crear_cuenta"> <u>Crear nuevo usuario</u> </string>
+</resources>
