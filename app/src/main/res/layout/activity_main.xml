@@ -41,14 +41,17 @@
             android:text="Cerrar sesión"
             android:textColor="#E91E63" />
 
+
         <ListView
             android:id="@+id/listView1"
             android:layout_width="match_parent"
-            android:layout_height="461dp"
+            android:layout_height="wrap_content"
             android:paddingLeft="20sp"
             android:paddingTop="10sp"
             android:paddingRight="20sp"
             android:paddingBottom="5sp" />
+
+
 
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
